@@ -24,7 +24,7 @@
 <h2 id="sobre">📖 Sobre</h2>
 App referente a Atividade Avaliativa 1 da disciplina Desenvolvimento Mobile, ministrada pelo professor Odair Gabriel da Silva na Faculdade Impacta, durante o terceiro semestre do curso Análise e Desenvolvimento de Sistemas cursado no 2º Semestre de 2025.
 <br><br>
-O app deverá ter uma tela principal onde será possível navegar para telas que vão conter o portifólio de cada integrante e uma tela com a resolução do seguinte Eexercício:<br><br>
+O app deverá ter uma tela principal onde será possível navegar para telas que vão conter o portifólio de cada integrante e uma tela com a resolução do seguinte Exercício:<br><br>
 Escreva um programa em kotlin para calcular a redução do tempo de vida
 de um fumante. Pergunte a quantidade de cigarros fumados por dias e quantos anos
 ele já fumou. Considere que um fumante perde 10 min de vida a cada cigarro. Calcule
